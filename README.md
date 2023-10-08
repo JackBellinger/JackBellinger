@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jackbellinger&label=Profile%20views&color=0e75b6&style=flat" alt="jackbellinger" /> </p>
 -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackbellinger" alt="jackbellinger" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jackbellinger&rank-?" alt="jackbellinger" /></a> </p>
 
-- 🔭 I’m currently searching for a job in a backend role.
+- 🔭 I’m currently searching for a job in a fullstack or backend role.
 
 - 🌱 I’m currently learning **Svelte, Webassembly, & Machine learning**
 
