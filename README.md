@@ -90,6 +90,6 @@
 		 <img src="https://github-profile-trophy.vercel.app/?username=jackbellinger&rank=-?,-A" alt="jackbellinger" /></a>
 	<a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
 		<img src="https://github-readme-activity-graph.vercel.app/graph?username=JackBellinger&theme=green" alt="activity graph"></a>
-	<a href="https://github.com/antonkomarev/github-profile-views-counter">
-		<img src="https://komarev.com/ghpvc/?username=jackbellinger&label=Profile%20views&color=0e75b6&style=flat" alt="jackbellinger" /></a>
+<!-- 	<a href="https://github.com/antonkomarev/github-profile-views-counter">
+		<img src="https://komarev.com/ghpvc/?username=jackbellinger&label=Profile%20views&color=0e75b6&style=flat" alt="jackbellinger" /></a> -->
 </div>
