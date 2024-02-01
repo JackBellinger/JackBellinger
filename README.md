@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Svelte & Webassembly**
 
-- 📝 I write articles on [jackbellinger.github.io/blog](jackbellinger.github.io/blog)
+- 📝 I write articles on [jackbellinger.github.io/blog](https://jackbellinger.github.io/blog)
 
 - 📫 How to reach me **jdunnbellinger@gmail.com**
 		<!-- ### Blogs posts -->
