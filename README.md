@@ -2,9 +2,9 @@
 <h3 align="center">Welcome to my GitHub Profile</h3>
 
 
-- 🔭 I’m currently searching for a job in a fullstack or backend role.
+- 🔭 I’m working on healthcare connectivity & data engineering.
 
-- 🌱 I’m currently learning **Svelte & Webassembly**
+- 🌱 I’m currently learning **Svelte & Webassembly** in my free time.
 
 - 📝 I write articles on [jackbellinger.github.io/blog](https://jackbellinger.github.io/blog)
 
