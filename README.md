@@ -70,7 +70,7 @@
 				</a>
 				<a href="https://www.rust-lang.org" target="_blank" rel="noreferrer" style="height: 5.3831rem; width: 5.3831rem;">
 					<img
-						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg"
+						src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg"
 						alt="rust"
 						width="100px"
 						height="100px"
