@@ -2,9 +2,9 @@
 <h3 align="center">Welcome to my GitHub Profile</h3>
 
 
-- 🔭 I’m working on healthcare connectivity & data engineering.
+- 🔭 I’m working on observability @ Wells Fargo.
 
-- 🌱 I’m currently learning **Svelte & Webassembly** in my free time.
+- 🌱 I’m currently learning **Svelte in Astro** & building a calendar / booking system.
 
 - 📝 I write articles on [jackbellinger.github.io/blog](https://jackbellinger.github.io/blog)
 
