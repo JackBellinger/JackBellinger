@@ -93,4 +93,3 @@
 <!-- 	<a href="https://github.com/antonkomarev/github-profile-views-counter">
 		<img src="https://komarev.com/ghpvc/?username=jackbellinger&label=Profile%20views&color=0e75b6&style=flat" alt="jackbellinger" /></a> -->
 </div>
-[![trophy](https://github-profile-trophy.vercel.app/?username=jackbellinger)](https://github.com/ryo-ma/github-profile-trophy)
